@@ -1,5 +1,5 @@
-import { Checkbox } from "@/styles/radix-nova/ui/checkbox"
-import { Label } from "@/styles/radix-nova/ui/label"
+import { Checkbox } from "@/styles/radix-vega/ui/checkbox"
+import { Label } from "@/styles/radix-vega/ui/label"
 
 export default function LabelDemo() {
   return (

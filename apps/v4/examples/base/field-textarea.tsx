@@ -4,8 +4,8 @@ import {
   FieldGroup,
   FieldLabel,
   FieldSet,
-} from "@/styles/base-nova/ui/field"
-import { Textarea } from "@/styles/base-nova/ui/textarea"
+} from "@/styles/base-vega/ui/field"
+import { Textarea } from "@/styles/base-vega/ui/textarea"
 
 export default function FieldTextarea() {
   return (

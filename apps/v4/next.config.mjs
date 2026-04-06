@@ -3,6 +3,7 @@ import { createMDX } from "fumadocs-mdx/next"
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: process.env.STATIC_EXPORT ? "export" : undefined,
   devIndicators: false,
   typescript: {
     ignoreBuildErrors: true,

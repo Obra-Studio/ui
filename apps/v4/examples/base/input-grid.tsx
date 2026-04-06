@@ -1,5 +1,5 @@
-import { Field, FieldGroup, FieldLabel } from "@/styles/base-nova/ui/field"
-import { Input } from "@/styles/base-nova/ui/input"
+import { Field, FieldGroup, FieldLabel } from "@/styles/base-vega/ui/field"
+import { Input } from "@/styles/base-vega/ui/input"
 
 export function InputGrid() {
   return (

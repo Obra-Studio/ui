@@ -4,8 +4,8 @@ import {
   InputGroup,
   InputGroupAddon,
   InputGroupInput,
-} from "@/styles/base-nova/ui/input-group"
-import { Kbd } from "@/styles/base-nova/ui/kbd"
+} from "@/styles/base-vega/ui/input-group"
+import { Kbd } from "@/styles/base-vega/ui/kbd"
 
 export function InputGroupKbd() {
   return (

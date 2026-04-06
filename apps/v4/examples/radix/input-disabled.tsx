@@ -2,8 +2,8 @@ import {
   Field,
   FieldDescription,
   FieldLabel,
-} from "@/styles/radix-nova/ui/field"
-import { Input } from "@/styles/radix-nova/ui/input"
+} from "@/styles/radix-vega/ui/field"
+import { Input } from "@/styles/radix-vega/ui/input"
 
 export function InputDisabled() {
   return (

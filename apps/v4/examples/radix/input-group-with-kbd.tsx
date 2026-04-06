@@ -5,15 +5,15 @@ import {
   FieldDescription,
   FieldGroup,
   FieldLabel,
-} from "@/styles/radix-nova/ui/field"
-import { Input } from "@/styles/radix-nova/ui/input"
+} from "@/styles/radix-vega/ui/field"
+import { Input } from "@/styles/radix-vega/ui/input"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupInput,
-} from "@/styles/radix-nova/ui/input-group"
-import { Kbd, KbdGroup } from "@/styles/radix-nova/ui/kbd"
-import { Spinner } from "@/styles/radix-nova/ui/spinner"
+} from "@/styles/radix-vega/ui/input-group"
+import { Kbd, KbdGroup } from "@/styles/radix-vega/ui/kbd"
+import { Spinner } from "@/styles/radix-vega/ui/spinner"
 
 export function InputGroupWithKbd() {
   return (

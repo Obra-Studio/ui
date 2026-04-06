@@ -2,14 +2,14 @@
 
 import * as React from "react"
 
-import { Button } from "@/styles/radix-nova/ui/button"
-import { Calendar } from "@/styles/radix-nova/ui/calendar"
-import { Field, FieldLabel } from "@/styles/radix-nova/ui/field"
+import { Button } from "@/styles/radix-vega/ui/button"
+import { Calendar } from "@/styles/radix-vega/ui/calendar"
+import { Field, FieldLabel } from "@/styles/radix-vega/ui/field"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "@/styles/radix-nova/ui/popover"
+} from "@/styles/radix-vega/ui/popover"
 
 export function DatePickerSimple() {
   const [open, setOpen] = React.useState(false)

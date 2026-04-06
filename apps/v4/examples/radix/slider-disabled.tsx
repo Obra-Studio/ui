@@ -1,4 +1,4 @@
-import { Slider } from "@/styles/radix-nova/ui/slider"
+import { Slider } from "@/styles/radix-vega/ui/slider"
 
 export function SliderDisabled() {
   return (

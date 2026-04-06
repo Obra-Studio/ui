@@ -4,13 +4,13 @@ import * as React from "react"
 import { format } from "date-fns"
 import { ChevronDownIcon } from "lucide-react"
 
-import { Button } from "@/styles/base-nova/ui/button"
-import { Calendar } from "@/styles/base-nova/ui/calendar"
+import { Button } from "@/styles/base-vega/ui/button"
+import { Calendar } from "@/styles/base-vega/ui/calendar"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "@/styles/base-nova/ui/popover"
+} from "@/styles/base-vega/ui/popover"
 
 export function DatePickerDemo() {
   const [date, setDate] = React.useState<Date>()

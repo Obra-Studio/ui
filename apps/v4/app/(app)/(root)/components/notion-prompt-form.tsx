@@ -17,8 +17,8 @@ import {
   Avatar,
   AvatarFallback,
   AvatarImage,
-} from "@/styles/radix-nova/ui/avatar"
-import { Badge } from "@/styles/radix-nova/ui/badge"
+} from "@/styles/radix-vega/ui/avatar"
+import { Badge } from "@/styles/radix-vega/ui/badge"
 import {
   Command,
   CommandEmpty,
@@ -26,7 +26,7 @@ import {
   CommandInput,
   CommandItem,
   CommandList,
-} from "@/styles/radix-nova/ui/command"
+} from "@/styles/radix-vega/ui/command"
 import {
   DropdownMenu,
   DropdownMenuCheckboxItem,
@@ -39,25 +39,25 @@ import {
   DropdownMenuSubContent,
   DropdownMenuSubTrigger,
   DropdownMenuTrigger,
-} from "@/styles/radix-nova/ui/dropdown-menu"
-import { Field, FieldLabel } from "@/styles/radix-nova/ui/field"
+} from "@/styles/radix-vega/ui/dropdown-menu"
+import { Field, FieldLabel } from "@/styles/radix-vega/ui/field"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupButton,
   InputGroupTextarea,
-} from "@/styles/radix-nova/ui/input-group"
+} from "@/styles/radix-vega/ui/input-group"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "@/styles/radix-nova/ui/popover"
-import { Switch } from "@/styles/radix-nova/ui/switch"
+} from "@/styles/radix-vega/ui/popover"
+import { Switch } from "@/styles/radix-vega/ui/switch"
 import {
   Tooltip,
   TooltipContent,
   TooltipTrigger,
-} from "@/styles/radix-nova/ui/tooltip"
+} from "@/styles/radix-vega/ui/tooltip"
 
 const SAMPLE_DATA = {
   mentionable: [

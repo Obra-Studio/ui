@@ -1,5 +1,5 @@
-import { Field, FieldGroup, FieldLabel } from "@/styles/radix-nova/ui/field"
-import { Input } from "@/styles/radix-nova/ui/input"
+import { Field, FieldGroup, FieldLabel } from "@/styles/radix-vega/ui/field"
+import { Input } from "@/styles/radix-vega/ui/input"
 
 export function InputGrid() {
   return (

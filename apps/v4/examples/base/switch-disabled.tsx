@@ -1,5 +1,5 @@
-import { Field, FieldLabel } from "@/styles/base-nova/ui/field"
-import { Switch } from "@/styles/base-nova/ui/switch"
+import { Field, FieldLabel } from "@/styles/base-vega/ui/field"
+import { Switch } from "@/styles/base-vega/ui/switch"
 
 export function SwitchDisabled() {
   return (

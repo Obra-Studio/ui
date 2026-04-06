@@ -2,8 +2,8 @@
 
 import * as React from "react"
 
-import { Label } from "@/styles/base-nova/ui/label"
-import { Slider } from "@/styles/base-nova/ui/slider"
+import { Label } from "@/styles/base-vega/ui/label"
+import { Slider } from "@/styles/base-vega/ui/slider"
 
 export function SliderControlled() {
   const [value, setValue] = React.useState([0.3, 0.7])

@@ -1,13 +1,13 @@
 import * as React from "react"
 
-import { Card, CardContent } from "@/styles/base-nova/ui/card"
+import { Card, CardContent } from "@/styles/base-vega/ui/card"
 import {
   Carousel,
   CarouselContent,
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from "@/styles/base-nova/ui/carousel"
+} from "@/styles/base-vega/ui/carousel"
 
 export default function CarouselOrientation() {
   return (

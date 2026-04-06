@@ -1,7 +1,7 @@
-import { Button } from "@/styles/radix-nova/ui/button"
-import { ButtonGroup } from "@/styles/radix-nova/ui/button-group"
-import { Field, FieldLabel } from "@/styles/radix-nova/ui/field"
-import { Input } from "@/styles/radix-nova/ui/input"
+import { Button } from "@/styles/radix-vega/ui/button"
+import { ButtonGroup } from "@/styles/radix-vega/ui/button-group"
+import { Field, FieldLabel } from "@/styles/radix-vega/ui/field"
+import { Input } from "@/styles/radix-vega/ui/input"
 
 export function InputButtonGroup() {
   return (

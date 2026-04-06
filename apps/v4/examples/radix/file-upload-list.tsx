@@ -10,8 +10,8 @@ import {
   ItemGroup,
   ItemMedia,
   ItemTitle,
-} from "@/styles/radix-nova/ui/item"
-import { Progress } from "@/styles/radix-nova/ui/progress"
+} from "@/styles/radix-vega/ui/item"
+import { Progress } from "@/styles/radix-vega/ui/progress"
 
 export function FileUploadList() {
   const files = React.useMemo(

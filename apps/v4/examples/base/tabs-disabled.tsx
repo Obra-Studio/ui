@@ -1,4 +1,4 @@
-import { Tabs, TabsList, TabsTrigger } from "@/styles/base-nova/ui/tabs"
+import { Tabs, TabsList, TabsTrigger } from "@/styles/base-vega/ui/tabs"
 
 export function TabsDisabled() {
   return (

@@ -7,7 +7,7 @@ import {
   ItemGroup,
   ItemHeader,
   ItemTitle,
-} from "@/styles/radix-nova/ui/item"
+} from "@/styles/radix-vega/ui/item"
 
 const models = [
   {

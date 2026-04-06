@@ -3,8 +3,8 @@
 import * as React from "react"
 import { IconMinus, IconPlus } from "@tabler/icons-react"
 
-import { Button } from "@/styles/radix-nova/ui/button"
-import { ButtonGroup } from "@/styles/radix-nova/ui/button-group"
+import { Button } from "@/styles/radix-vega/ui/button"
+import { ButtonGroup } from "@/styles/radix-vega/ui/button-group"
 import {
   Field,
   FieldContent,
@@ -15,10 +15,10 @@ import {
   FieldSeparator,
   FieldSet,
   FieldTitle,
-} from "@/styles/radix-nova/ui/field"
-import { Input } from "@/styles/radix-nova/ui/input"
-import { RadioGroup, RadioGroupItem } from "@/styles/radix-nova/ui/radio-group"
-import { Switch } from "@/styles/radix-nova/ui/switch"
+} from "@/styles/radix-vega/ui/field"
+import { Input } from "@/styles/radix-vega/ui/input"
+import { RadioGroup, RadioGroupItem } from "@/styles/radix-vega/ui/radio-group"
+import { Switch } from "@/styles/radix-vega/ui/switch"
 
 export function AppearanceSettings() {
   const [gpuCount, setGpuCount] = React.useState(8)

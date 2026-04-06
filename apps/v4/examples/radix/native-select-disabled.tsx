@@ -1,7 +1,7 @@
 import {
   NativeSelect,
   NativeSelectOption,
-} from "@/styles/radix-nova/ui/native-select"
+} from "@/styles/radix-vega/ui/native-select"
 
 export function NativeSelectDisabled() {
   return (

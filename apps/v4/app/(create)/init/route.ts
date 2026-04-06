@@ -1,3 +1,5 @@
+export const dynamic = "force-static"
+
 import { NextResponse, type NextRequest } from "next/server"
 import { track } from "@vercel/analytics/server"
 import { isPresetCode } from "shadcn/preset"

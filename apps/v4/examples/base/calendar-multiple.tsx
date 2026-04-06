@@ -1,5 +1,5 @@
-import { Calendar } from "@/styles/base-nova/ui/calendar"
-import { Card, CardContent } from "@/styles/base-nova/ui/card"
+import { Calendar } from "@/styles/base-vega/ui/calendar"
+import { Card, CardContent } from "@/styles/base-vega/ui/card"
 
 export function CalendarMultiple() {
   return (

@@ -1,5 +1,5 @@
-import { Card, CardContent, CardHeader } from "@/styles/base-nova/ui/card"
-import { Skeleton } from "@/styles/base-nova/ui/skeleton"
+import { Card, CardContent, CardHeader } from "@/styles/base-vega/ui/card"
+import { Skeleton } from "@/styles/base-vega/ui/skeleton"
 
 export function SkeletonCard() {
   return (

@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils"
 import { useConfig } from "@/hooks/use-config"
 import { copyToClipboardWithMeta } from "@/components/copy-button"
 import { BASES, type BaseName } from "@/registry/config"
-import { Button } from "@/styles/base-nova/ui/button"
+import { Button } from "@/styles/base-vega/ui/button"
 import {
   Dialog,
   DialogContent,
@@ -17,7 +17,7 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/styles/base-nova/ui/dialog"
+} from "@/styles/base-vega/ui/dialog"
 import {
   Field,
   FieldContent,
@@ -27,15 +27,15 @@ import {
   FieldSeparator,
   FieldSet,
   FieldTitle,
-} from "@/styles/base-nova/ui/field"
-import { RadioGroup, RadioGroupItem } from "@/styles/base-nova/ui/radio-group"
-import { Switch } from "@/styles/base-nova/ui/switch"
+} from "@/styles/base-vega/ui/field"
+import { RadioGroup, RadioGroupItem } from "@/styles/base-vega/ui/radio-group"
+import { Switch } from "@/styles/base-vega/ui/switch"
 import {
   Tabs,
   TabsContent,
   TabsList,
   TabsTrigger,
-} from "@/styles/base-nova/ui/tabs"
+} from "@/styles/base-vega/ui/tabs"
 import { usePresetCode } from "@/app/(app)/create/hooks/use-design-system"
 import {
   useDesignSystemSearchParams,

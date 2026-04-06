@@ -1,4 +1,4 @@
-import { FieldSeparator } from "@/styles/radix-nova/ui/field"
+import { FieldSeparator } from "@/styles/radix-vega/ui/field"
 
 import { AppearanceSettings } from "./appearance-settings"
 import { ButtonGroupDemo } from "./button-group-demo"

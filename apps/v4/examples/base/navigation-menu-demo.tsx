@@ -16,7 +16,7 @@ import {
   NavigationMenuList,
   NavigationMenuTrigger,
   navigationMenuTriggerStyle,
-} from "@/styles/base-nova/ui/navigation-menu"
+} from "@/styles/base-vega/ui/navigation-menu"
 
 const components: { title: string; href: string; description: string }[] = [
   {

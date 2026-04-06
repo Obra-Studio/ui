@@ -1,5 +1,5 @@
-import { Button } from "@/styles/base-nova/ui/button"
-import { Spinner } from "@/styles/base-nova/ui/spinner"
+import { Button } from "@/styles/base-vega/ui/button"
+import { Spinner } from "@/styles/base-vega/ui/spinner"
 
 export default function ButtonLoading() {
   return (

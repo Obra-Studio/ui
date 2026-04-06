@@ -1,6 +1,6 @@
 import { BoldIcon, ItalicIcon } from "lucide-react"
 
-import { Toggle } from "@/styles/radix-nova/ui/toggle"
+import { Toggle } from "@/styles/radix-vega/ui/toggle"
 
 export function ToggleOutline() {
   return (

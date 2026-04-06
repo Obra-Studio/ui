@@ -9,7 +9,7 @@ import {
   ChartTooltip,
   ChartTooltipContent,
   type ChartConfig,
-} from "@/styles/radix-nova/ui/chart"
+} from "@/styles/radix-vega/ui/chart"
 
 const chartData = [
   { month: "January", desktop: 186, mobile: 80 },

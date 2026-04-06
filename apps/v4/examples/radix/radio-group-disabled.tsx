@@ -1,5 +1,5 @@
-import { Field, FieldLabel } from "@/styles/radix-nova/ui/field"
-import { RadioGroup, RadioGroupItem } from "@/styles/radix-nova/ui/radio-group"
+import { Field, FieldLabel } from "@/styles/radix-vega/ui/field"
+import { RadioGroup, RadioGroupItem } from "@/styles/radix-vega/ui/radio-group"
 
 export function RadioGroupDisabled() {
   return (

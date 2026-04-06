@@ -11,16 +11,16 @@ import {
   FieldDescription,
   FieldGroup,
   FieldLabel,
-} from "@/styles/base-nova/ui/field"
-import { Input } from "@/styles/base-nova/ui/input"
+} from "@/styles/base-vega/ui/field"
+import { Input } from "@/styles/base-vega/ui/input"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupButton,
   InputGroupText,
   InputGroupTextarea,
-} from "@/styles/base-nova/ui/input-group"
-import { Textarea } from "@/styles/base-nova/ui/textarea"
+} from "@/styles/base-vega/ui/input-group"
+import { Textarea } from "@/styles/base-vega/ui/textarea"
 
 export function InputGroupTextareaExamples() {
   return (

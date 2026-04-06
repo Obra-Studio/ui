@@ -7,7 +7,7 @@ import {
   BreadcrumbList,
   BreadcrumbPage,
   BreadcrumbSeparator,
-} from "@/styles/radix-nova/ui/breadcrumb"
+} from "@/styles/radix-vega/ui/breadcrumb"
 
 export function BreadcrumbLinkDemo() {
   return (
